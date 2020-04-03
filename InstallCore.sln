@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallCoreCompiler", "InstallCoreCompiler\InstallCoreCompiler.csproj", "{F44A9678-4AB8-4472-8120-585A4D8064BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallCorePackagingTool", "InstallCorePackagingTool\InstallCorePackagingTool.csproj", "{15E4575C-EB0A-4113-9494-C0DF451CEB15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44A9678-4AB8-4472-8120-585A4D8064BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44A9678-4AB8-4472-8120-585A4D8064BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44A9678-4AB8-4472-8120-585A4D8064BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44A9678-4AB8-4472-8120-585A4D8064BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E4575C-EB0A-4113-9494-C0DF451CEB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E4575C-EB0A-4113-9494-C0DF451CEB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E4575C-EB0A-4113-9494-C0DF451CEB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E4575C-EB0A-4113-9494-C0DF451CEB15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D0336DF-0293-4426-A89B-520E2D8F750A}
+	EndGlobalSection
+EndGlobal
